@@ -290,4 +290,9 @@ def main():
 
 
 if __name__ == "__main__":
+    """
+    For task 3 in git challenge, here is a description of the script
+    the script runs through 3 data sources giving based on user selections
+    descriptive statistics to the user.
+    """
 	main()

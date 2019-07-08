@@ -16,3 +16,6 @@ It's important to give proper credit. Add links to any repo that inspired you or
 ## This is task 2
 completed.
 
+## this is task 3
+completed.
+
